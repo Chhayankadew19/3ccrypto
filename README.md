@@ -1,2 +1,2 @@
-# 3ccrypto
+# 3crypto
 The implementation involves setting up API integration,designing a simple interface,processing data ,and handling errors.
